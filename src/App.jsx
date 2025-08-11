@@ -1,7 +1,7 @@
   import { useState } from 'react';
   import './App.css'
   import AddTransaction from './Components/AddTransaction';
-  import Navbar from './Components/navbar';
+  import Navbar from './Components/Navbar';
   import TransactionList from './Components/TransactionList';
   import { TransactionContext } from "./Components/TransactionContext";
   import SummaryCard from './Components/SummaryCard';
